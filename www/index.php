@@ -1,9 +1,9 @@
-<?php require_once __DIR__ . '/../../tonkawa-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../parx-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>VIP Preferred Rewards</title>
-    <?php require_once __DIR__ . '/../../tonkawa-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../parx-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
@@ -49,7 +49,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=tonkawa-vip&client_id=ed80d7c05ab54b5467cc498c95b1087c" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=parx-vip&client_id=ed80d7c05ab54b5467cc498c95b1087c" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
