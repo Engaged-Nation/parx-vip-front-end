@@ -49,7 +49,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=parx-vip&client_id=ed80d7c05ab54b5467cc498c95b1087c" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=parx-vip&client_id=74f1f18f9f4226570bb504e90bde8ada" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
