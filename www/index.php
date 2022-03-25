@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>VIP Preferred Rewards</title>
+    <title>VIP Preferred at Parx Casino & Racing</title>
     <?php require_once __DIR__ . '/../../parx-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
